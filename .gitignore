@@ -8,3 +8,4 @@ backup*/*
 *.stackdump
 *.bak
 www.ozhiker.com/
+.DS_Store
